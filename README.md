@@ -12,4 +12,5 @@ In this amazing project, . was used advanced tools in CSS, HTML and JS (flex box
     - pricing section
     - call to action section
     - footer
-[Live Omnifood]([https://omnifood-healthyfood.netlify.app])
+  
+  [Live Omnifood](https://omnifood-healthyfood.netlify.app)
